@@ -1,0 +1,15 @@
+C:\Users\dshbo\source\repos\Грядки\Грядки\bin\Debug\net6.0\Грядки.exe
+C:\Users\dshbo\source\repos\Грядки\Грядки\bin\Debug\net6.0\Грядки.deps.json
+C:\Users\dshbo\source\repos\Грядки\Грядки\bin\Debug\net6.0\Грядки.runtimeconfig.json
+C:\Users\dshbo\source\repos\Грядки\Грядки\bin\Debug\net6.0\Грядки.dll
+C:\Users\dshbo\source\repos\Грядки\Грядки\bin\Debug\net6.0\Грядки.pdb
+C:\Users\dshbo\source\repos\Грядки\Грядки\obj\Debug\net6.0\Грядки.csproj.AssemblyReference.cache
+C:\Users\dshbo\source\repos\Грядки\Грядки\obj\Debug\net6.0\Грядки.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dshbo\source\repos\Грядки\Грядки\obj\Debug\net6.0\Грядки.AssemblyInfoInputs.cache
+C:\Users\dshbo\source\repos\Грядки\Грядки\obj\Debug\net6.0\Грядки.AssemblyInfo.cs
+C:\Users\dshbo\source\repos\Грядки\Грядки\obj\Debug\net6.0\Грядки.csproj.CoreCompileInputs.cache
+C:\Users\dshbo\source\repos\Грядки\Грядки\obj\Debug\net6.0\Грядки.dll
+C:\Users\dshbo\source\repos\Грядки\Грядки\obj\Debug\net6.0\refint\Грядки.dll
+C:\Users\dshbo\source\repos\Грядки\Грядки\obj\Debug\net6.0\Грядки.pdb
+C:\Users\dshbo\source\repos\Грядки\Грядки\obj\Debug\net6.0\Грядки.genruntimeconfig.cache
+C:\Users\dshbo\source\repos\Грядки\Грядки\obj\Debug\net6.0\ref\Грядки.dll
